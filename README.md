@@ -58,3 +58,7 @@ Golang HTML to PDF Converter is [MIT-licensed](https://github.com/mindinventory/
 
 ## Let us know
 We’d be really happy if you sent us links to your projects where you use our component. Just email to sales@mindinventory.com and do let us know if you have any questions or suggestion regarding our work.
+
+```bash
+docker build --no-cache --tag rogeriocassares/pdf-to-png:0.1 .  
+```
